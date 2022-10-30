@@ -1,0 +1,85 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+}
+
+header{
+    background-color: #fbbc02;
+    object-fit: contain;
+    
+    
+
+    
+}
+#img{
+    position: relative; right: 25px; bottom:35px ;
+    padding: 50px;
+    
+    
+    
+  
+
+}
+
+#tp{
+    object-fit: contain;
+    position: relative;
+    height: 20px;
+    left: 30px;
+}
+
+
+                    /* BANNER */
+
+#banner{
+object-fit: contain;
+width: 100%;
+
+    }
+
+                                /* ICONOS  */
+.bxs-home-smile{
+    color: rgb(220, 43, 226);
+}
+.bxs-user-account{
+    color: rgb(0, 255, 76);
+}
+.bxs-user{
+    color: blue;
+}
+
+#iconos{
+    display: flex;
+    
+    justify-items: flex-end;
+    justify-content: flex-end;
+    object-fit: contain;
+    position: relative;
+    right: 50px;
+    
+}
+#primerA{
+    object-fit: contain;
+    position: relative;
+    bottom: 60px;
+    left: 230px;
+    
+}
+
+
+#segunA{
+    transition-duration: .5s;
+    transition-timing-function: ease-in;
+    padding: 10px;
+}
+#segunA:hover{
+    font-size: 110%;
+}
+#tercerA{
+    transition-duration: .5s;
+    transition-timing-function: ease-in;
+    padding: 10px;
+}
+#tercerA:hover{
+    font-size: 110%;
+}
